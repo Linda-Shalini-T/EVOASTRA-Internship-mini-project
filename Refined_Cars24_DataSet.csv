@@ -1,0 +1,436 @@
+Car_Name,Year,Kilometers_Driven,Fuel_Type,Transmission,Price(INR)
+Hyundai Grand i10,2016,34110,Petrol,Manual,335000
+Hyundai Verna 1.6 VTVT SX (O) AT,2018,30230,Petrol,Auto,668000
+Hyundai Grand i10,2018,63230,Petrol,Manual,350000
+Hyundai Xcent SX 1.2,2014,96900,Petrol,Manual,300000
+Hyundai GRAND I10 NIOS,2020,40150,Petrol,Auto,455000
+Hyundai Elite i20 ASTA 1.2 (O),2018,110000,Petrol,Manual,355000
+Hyundai EXTER  SX 1.2 AMT,2023,8800,Petrol,Auto,747000
+Hyundai Creta SX (O) 1.6 PETROL,2019,63750,Petrol,Manual,830000
+Hyundai NEW I20 N LINE,2021,11860,Petrol,Manual,685000
+Hyundai Creta SX PLUS 1.6 PETROL,2016,88650,CNG,Manual,523000
+Hyundai Creta SX PLUS AT 1.6 PETROL,2016,69950,Petrol,Auto,590000
+Hyundai AURA SX PLUS 1.2 AMT CRDI,2020,57700,Diesel,Auto,542000
+Hyundai Xcent SX 1.2,2019,130000,CNG,Manual,355000
+Hyundai Grand i10,2019,58080,CNG,Manual,360000
+Hyundai EXTER  SX 1.2 AMT,2023,6840,Petrol,Auto,752000
+Hyundai Elite i20 ASTA 1.2,2016,28160,Petrol,Manual,380000
+Hyundai i10 MAGNA 1.1,2012,43170,CNG,Manual,210000
+Hyundai New Elantra 2.0 S PETROL,2021,25170,Petrol,Manual,810000
+Hyundai NEW SANTRO,2018,38040,CNG,Manual,332000
+Hyundai AURA S 1.2,2021,56760,Petrol,Manual,490000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2015,47910,Petrol,Manual,280000
+Hyundai i10 MAGNA 1.2,2013,55420,Petrol,Manual,165000
+Hyundai AURA S 1.2,2021,51010,CNG,Manual,518000
+Hyundai AURA S 1.2,2024,28900,Petrol,Manual,582000
+Hyundai GRAND I10 NIOS,2022,34020,Petrol,Auto,560000
+Hyundai Xcent S 1.2,2015,66760,Petrol,Manual,275000
+Hyundai Creta SX PLUS 1.6 DIESEL SPECIAL EDITION,2017,76400,Diesel,Manual,692000
+Hyundai Grand i10,2017,23600,Petrol,Auto,409999
+Hyundai Grand i10,2013,130000,CNG,Manual,225000
+Hyundai GRAND I10 NIOS,2019,37610,CNG,Manual,509999
+Hyundai VENUE S 1.2,2021,24980,Petrol,Manual,620000
+Hyundai Verna 1.6 VTVT SX (O) AT,2017,72280,Petrol,Auto,592000
+Hyundai VENUE S 1.0 TURBO DCT,2019,46450,Petrol,Auto,700000
+Hyundai Xcent S 1.2,2015,71700,Petrol,Manual,308000
+Hyundai Verna FLUIDIC 1.6 CRDI SX 4S,2015,62610,Diesel,Manual,509999
+Hyundai Eon MAGNA +,2013,47060,Petrol,Manual,195000
+Hyundai Xcent E+,2017,100000,Petrol,Manual,303000
+Hyundai Creta SX PLUS 1.6 PETROL,2017,49690,Petrol,Manual,597000
+Hyundai Elite i20 ASTA 1.2,2018,54370,Petrol,Manual,500000
+Hyundai Elite i20 MAGNA 1.2,2015,99660,Petrol,Manual,315000
+Hyundai Creta SX 1.6 DIESEL,2016,98670,Diesel,Manual,602000
+Hyundai Verna 1.6 VTVT SX (O) AT,2018,69470,Petrol,Auto,669000
+Hyundai NEW SANTRO,2021,39330,Petrol,Manual,381000
+Hyundai Creta SX PLUS 1.6 PETROL,2015,87770,Petrol,Manual,565000
+Hyundai NEW I20 ASTA (O) 1.0 TURBO GDI DCT,2021,31680,Petrol,Auto,731000
+Hyundai Creta E PLUS 1.6 PETROL,2019,42440,Petrol,Manual,665000
+Hyundai Creta SX PLUS 1.6 PETROL,2017,43580,Petrol,Manual,658000
+Hyundai VENUE SX 1.0 TURBO IMT,2020,64849,Petrol,Manual,660000
+Hyundai NEW I20 ASTA (O) 1.2 AT,2022,30040,Petrol,Auto,815000
+Hyundai VENUE SX 1.0 TURBO IMT,2020,72270,Petrol,Manual,622000
+Hyundai i20 SPORTZ 1.2,2013,30920,Petrol,Manual,275000
+Hyundai Grand i10,2014,33520,Petrol,Manual,275000
+Hyundai Xcent S 1.2,2016,110000,Petrol,Manual,340000
+Hyundai Creta SX PLUS 1.6 PETROL,2016,81040,Petrol,Manual,515000
+Hyundai VENUE SX 1.0 (O) TURBO IMT,2022,22470,Petrol,Manual,855000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2014,34460,Petrol,Manual,315000
+Hyundai VENUE SX 1.0 TURBO IMT,2021,38020,Petrol,Manual,705000
+Hyundai VENUE SX 1.0 TURBO,2019,71120,Petrol,Manual,620000
+Hyundai GRAND I10 NIOS,2021,45470,CNG,Manual,520000
+Hyundai Grand i10,2015,40820,Petrol,Manual,310000
+Hyundai Elite i20 SPORTZ 1.2,2014,43320,Petrol,Manual,345000
+Hyundai Elite i20 ASTA 1.2,2015,40910,Petrol,Manual,345000
+Hyundai AURA SX PLUS 1.2 AMT,2020,23940,Petrol,Auto,550000
+Hyundai Eon ERA,2012,69240,Petrol,Manual,102000
+Hyundai Eon ERA +,2012,34760,Petrol,Manual,119000
+Hyundai Eon MAGNA +,2017,31110,Petrol,Manual,263000
+Hyundai Grand i10,2014,45250,Petrol,Manual,275000
+Hyundai Verna FLUIDIC 4S1.6 VTVT SX AT,2016,42240,Petrol,Auto,434999
+Hyundai i20 ASTA 1.2,2012,110000,Petrol,Manual,211000
+Hyundai Grand i10,2016,13340,Petrol,Manual,360000
+Hyundai i20 MAGNA 1.2,2010,150000,Petrol,Manual,132000
+Hyundai Eon MAGNA +,2012,94160,Petrol,Manual,186000
+Hyundai i10 SPORTZ 1.2,2011,89200,Petrol,Manual,145000
+Hyundai Creta SX PLUS AT 1.6 DIESEL,2017,63360,Diesel,Auto,750000
+Hyundai VENUE E 1.2,2020,35430,Petrol,Manual,584000
+Hyundai Verna 1.6 VTVT SX (O) AT,2018,58410,Petrol,Auto,561000
+Hyundai i10 MAGNA 1.1,2013,31480,Petrol,Manual,183000
+Hyundai i10 ERA 1.1,2012,60000,Petrol,Manual,190000
+Hyundai Elite i20 SPORTZ 1.2,2016,59330,Petrol,Manual,361000
+Hyundai Eon SPORTZ,2012,43870,Petrol,Manual,140000
+Hyundai i10 SPORTZ 1.1 LPG,2013,51440,Petrol,Manual,210000
+Hyundai Grand i10,2017,41450,Petrol,Manual,260000
+Hyundai Verna FLUIDIC 1.6 CRDI SX,2012,90000,Diesel,Manual,231000
+Hyundai NEW SANTRO,2020,4410,Petrol,Manual,314000
+Hyundai Verna FLUIDIC 1.6 VTVT EX,2013,60000,Petrol,Manual,215000
+Hyundai Elite i20 MAGNA 1.2,2017,63900,Petrol,Manual,375000
+Hyundai i20 Active 1.4 SX,2017,110000,Diesel,Manual,419000
+Hyundai i10 MAGNA 1.1,2012,17900,Petrol,Manual,250000
+Hyundai i20 MAGNA 1.2,2013,58700,Petrol,Manual,180000
+Hyundai VENUE SX 1.5 CRDI,2021,45520,Diesel,Manual,832000
+Hyundai Verna FLUIDIC 1.6 VTVT SX,2011,82160,Petrol,Manual,150000
+Hyundai i10 ERA 1.1,2012,36630,Petrol,Manual,229000
+Hyundai i10 SPORTZ 1.1,2014,55370,Petrol,Manual,291000
+Hyundai VENUE SX 1.2 PETROL,2022,25690,Petrol,Manual,831000
+Hyundai VENUE SX PLUS 1.0 TURBO DCT,2022,39760,Petrol,Auto,875000
+Hyundai i20 SPORTZ 1.2,2012,66200,Petrol,Manual,200000
+Hyundai i20 SPORTZ 1.2,2012,35700,Petrol,Manual,231000
+Hyundai Elite i20 MAGNA EXECUTIVE 1.2,2018,41690,Petrol,Manual,383000
+Hyundai i20 MAGNA 1.2,2013,21810,Petrol,Manual,352000
+Hyundai i20 ASTA 1.2,2012,120000,Petrol,Manual,252999
+Hyundai i10 ERA 1.1,2013,21300,Petrol,Manual,158000
+Hyundai i10 SPORTZ 1.1,2014,96560,Petrol,Manual,252999
+Hyundai Eon SPORTZ,2014,69310,Petrol,Manual,137000
+Hyundai i10 MAGNA 1.2,2013,39220,Petrol,Manual,159000
+Hyundai Elite i20 SPORTZ 1.2,2016,67900,Petrol,Manual,358000
+Hyundai i20 SPORTZ 1.2,2011,99310,Petrol,Manual,157000
+Hyundai i10 ERA 1.1,2013,87010,Petrol,Manual,145000
+Hyundai i20 SPORTZ 1.2,2012,75060,Petrol,Manual,148000
+Hyundai i20 MAGNA 1.2,2013,73100,Petrol,Manual,190000
+Hyundai i20 SPORTZ 1.2,2013,32560,Petrol,Manual,209000
+Hyundai i10 SPORTZ 1.2 AT,2012,7550,Petrol,Auto,216000
+Hyundai i20 SPORTZ 1.2,2012,61900,Petrol,Manual,249000
+Hyundai Verna 1.6 VTVT SX O,2017,77190,Petrol,Manual,593000
+Hyundai i10 SPORTZ 1.2,2012,46310,Petrol,Manual,161000
+Hyundai Verna FLUIDIC 1.6 VTVT SX,2012,76890,Petrol,Manual,266000
+Hyundai Verna FLUIDIC 1.6 VTVT SX,2011,87000,Petrol,Manual,190000
+Hyundai Verna 1.6 VTVT SX AT,2016,62580,Petrol,Auto,642000
+Hyundai Creta E 1.5 PETROL,2024,13280,Petrol,Manual,1050000
+Hyundai i20 MAGNA 1.2,2010,48830,Petrol,Manual,136000
+Hyundai i20 MAGNA 1.2,2012,87480,Petrol,Manual,130000
+Hyundai Eon SPORTZ,2015,35100,Petrol,Manual,182000
+Hyundai i20 MAGNA 1.2,2011,73470,Petrol,Manual,135000
+Hyundai i10 SPORTZ 1.2,2011,44370,Petrol,Manual,156000
+Hyundai i20 SPORTZ 1.2,2010,110000,Petrol,Manual,151000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2017,18290,Petrol,Manual,348000
+Hyundai Xcent S 1.2,2014,98000,Petrol,Manual,340000
+Hyundai i20 SPORTZ 1.2,2012,90770,Petrol,Manual,160000
+Hyundai i20 ASTA 1.2,2011,140000,Petrol,Manual,165000
+Hyundai i10 ASTA 1.2,2010,78520,Petrol,Manual,97000
+Hyundai i20 ASTA 1.2,2011,67550,Petrol,Manual,178000
+Hyundai Grand i10,2017,42880,Petrol,Auto,300000
+Hyundai VENUE S+ 1.2,2021,41640,Petrol,Manual,620000
+Hyundai i20 SPORTZ 1.2,2013,76420,Petrol,Manual,240000
+Hyundai i10 SPORTZ 1.2,2010,100000,Petrol,Manual,102000
+Hyundai i20 ASTA 1.2,2011,88620,Petrol,Manual,140000
+Hyundai i20 ASTA 1.2,2013,82780,Petrol,Manual,186000
+Hyundai i20 MAGNA 1.2,2013,33180,Petrol,Manual,287000
+Hyundai i20 ASTA 1.2,2013,80290,Petrol,Manual,272000
+Hyundai i10 SPORTZ 1.2,2010,68400,Petrol,Manual,121000
+Hyundai i20 ASTA 1.4 CRDI,2012,150000,Diesel,Manual,252000
+Hyundai i20 MAGNA (O) 1.2,2011,61110,Petrol,Manual,164000
+Hyundai i10 SPORTZ 1.2 AT,2013,74280,Petrol,Auto,194000
+Hyundai i20 MAGNA (O) 1.2,2010,23520,Petrol,Manual,133000
+Hyundai i20 MAGNA (O) 1.2,2014,31720,Petrol,Manual,270000
+Hyundai i20 SPORTZ 1.2,2010,48840,Petrol,Manual,128000
+Hyundai Accent GLE,2011,96080,Petrol,Manual,121000
+Hyundai Elite i20 SPORTZ 1.2,2015,42150,Petrol,Manual,328000
+Hyundai i20 SPORTZ 1.2,2010,82000,Petrol,Manual,140000
+Hyundai Elite i20 ASTA 1.2,2015,75830,Petrol,Manual,373000
+Hyundai Verna FLUIDIC 1.6 VTVT EX,2012,58100,Petrol,Manual,263000
+Hyundai Grand i10,2018,120000,Petrol,Manual,319000
+Hyundai i10 MAGNA 1.1,2015,62660,Petrol,Manual,273000
+Hyundai i10 SPORTZ 1.2 AT,2012,65209,Petrol,Auto,195000
+Hyundai i10 SPORTZ 1.2,2011,46500,Petrol,Manual,162000
+Hyundai Eon MAGNA +,2014,35120,Petrol,Manual,166000
+Hyundai i20 SPORTZ 1.2,2013,110000,Petrol,Manual,238000
+Hyundai i10 SPORTZ 1.2,2010,71010,Petrol,Manual,121000
+Hyundai Verna,2010,57460,Petrol,Manual,227000
+Hyundai Xcent S (O) 1.2,2015,100000,Petrol,Manual,275000
+Hyundai Verna FLUIDIC 1.6 VTVT SX,2014,98090,Petrol,Manual,285000
+Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,2013,88910,Petrol,Manual,219000
+Hyundai i20 ASTA 1.2,2011,100000,Petrol,Manual,179000
+Hyundai VENUE SX 1.0 TURBO IMT DUAL TONE SPORT,2021,52120,Petrol,Manual,625000
+Hyundai i10 MAGNA 1.2,2012,41290,Petrol,Manual,137000
+Hyundai GRAND I10 NIOS,2019,45370,Petrol,Manual,441000
+Hyundai i20 MAGNA (O) 1.2,2011,110000,Petrol,Manual,130000
+Hyundai i10 MAGNA 1.2,2012,29620,Petrol,Manual,128000
+Hyundai Verna 1.6 VTVT SX O,2018,47860,Petrol,Manual,595000
+Hyundai i20 MAGNA 1.2,2011,50250,Petrol,Manual,156000
+Hyundai Verna FLUIDIC 1.6 VTVT SX,2013,110000,Petrol,Manual,267000
+Hyundai i10 SPORTZ 1.2,2012,160000,Petrol,Manual,167000
+Hyundai Grand i10,2018,100000,Petrol,Manual,343000
+Hyundai i10 MAGNA 1.1,2010,23000,Petrol,Manual,98000
+Hyundai i20 SPORTZ 1.4 CRDI,2011,76150,Diesel,Manual,165000
+Hyundai Xcent SX 1.2 (O),2014,81880,Petrol,Manual,277000
+Hyundai Creta SX PLUS 1.6 PETROL,2016,83140,Petrol,Manual,600000
+Hyundai i10 MAGNA 1.2,2010,99850,Petrol,Manual,92000
+Hyundai i20 ASTA 1.2,2010,98050,Petrol,Manual,127000
+Hyundai Verna FLUIDIC 1.6 VTVT,2011,51830,Petrol,Manual,215000
+Hyundai i20 MAGNA (O) 1.2,2011,30320,Petrol,Manual,155000
+Hyundai i10 SPORTZ 1.2,2010,4120,Petrol,Manual,108000
+Hyundai i10 MAGNA 1.2,2012,56980,Petrol,Manual,150000
+Hyundai Grand i10,2017,160000,Petrol,Auto,300000
+Hyundai Creta SX PLUS AT 1.6 DIESEL,2016,90960,Diesel,Auto,915000
+Hyundai Verna FLUIDIC 1.6 CRDI SX,2011,140000,Diesel,Manual,231000
+Hyundai Xcent S 1.2,2014,120000,Petrol,Manual,317000
+Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,2014,65000,Petrol,Auto,303000
+Hyundai Xcent S 1.2,2016,48200,Petrol,Manual,349000
+Hyundai i10 ERA 1.1,2011,66960,Petrol,Manual,113999
+Hyundai i20 SPORTZ 1.2,2014,68540,Petrol,Manual,256999
+Hyundai i10 SPORTZ 1.1,2016,76530,Petrol,Manual,213000
+Hyundai i20 SPORTZ 1.4 CRDI,2010,95380,Diesel,Manual,200000
+Hyundai Eon ERA +,2014,29200,Petrol,Manual,193000
+Hyundai Santro Xing GL PLUS (CNG),2012,86860,Petrol,Manual,123000
+Hyundai Verna FLUIDIC 1.6 VTVT SX,2014,29120,Petrol,Manual,340000
+Hyundai i20 ASTA 1.2,2013,51010,Petrol,Manual,293000
+Hyundai i10 SPORTZ 1.2 AT,2011,70830,Petrol,Auto,129000
+Hyundai i10 ASTA 1.2 AT SUNROOF,2010,63020,Petrol,Auto,167000
+Hyundai Verna 1.6 CRDI SX + AT,2018,88640,Diesel,Auto,771000
+Hyundai i20 ASTA 1.4 AT,2012,40430,Petrol,Auto,269000
+Hyundai i20 ASTA 1.2,2010,100000,Petrol,Manual,92000
+Hyundai Eon ERA +,2014,17370,Petrol,Manual,219000
+Hyundai Verna FLUIDIC 1.6 VTVT EX,2013,90690,Petrol,Manual,338000
+Hyundai Creta SX PLUS 1.6 PETROL,2016,44500,Petrol,Manual,652000
+Hyundai i10 SPORTZ 1.2,2010,78720,Petrol,Manual,118000
+Hyundai Xcent SX 1.2 (O),2015,71070,Petrol,Manual,362000
+Hyundai New Elantra 1.8 SX MT VTVT,2013,40590,Petrol,Manual,337000
+Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,2015,79750,Petrol,Manual,290000
+Hyundai Verna FLUIDIC 1.6 VTVT SX,2013,74000,Petrol,Manual,293000
+Hyundai Elite i20 SPORTZ 1.2,2015,79260,Petrol,Manual,342000
+Hyundai Grand i10,2016,110000,Petrol,Manual,309000
+Hyundai Elite i20 MAGNA PLUS 1.2,2019,35320,Petrol,Manual,500000
+Hyundai Creta SX PLUS 1.6 PETROL,2017,59230,Petrol,Manual,787000
+Hyundai Eon ERA +,2015,75900,Petrol,Manual,229999
+Hyundai i10 SPORTZ 1.2,2010,86660,Petrol,Manual,89000
+Hyundai Verna FLUIDIC 1.6 VTVT SX OPT AT,2013,70300,Petrol,Auto,300000
+Hyundai Creta SX PLUS 1.6 PETROL,2016,82240,Petrol,Manual,700000
+Hyundai Xcent S (O) 1.2,2015,71120,Petrol,Manual,312000
+Hyundai Grand i10,2016,76230,Petrol,Manual,278000
+Hyundai Eon SPORTZ,2014,28240,Petrol,Manual,180000
+Hyundai NEW SANTRO,2019,36710,Petrol,Manual,325000
+Hyundai Creta SX 1.5 PETROL,2020,66730,Petrol,Manual,900000
+Hyundai Creta E PLUS 1.6 PETROL,2017,46670,Petrol,Manual,595000
+Hyundai Xcent S 1.2,2014,48900,Petrol,Manual,301000
+Hyundai Verna FLUIDIC 4S 1.6 VTVT S,2016,43030,Petrol,Manual,450000
+Hyundai i10 MAGNA 1.2,2011,28130,Petrol,Manual,132000
+Hyundai Verna 1.6 CRDI SX,2018,72580,Diesel,Manual,722000
+Hyundai Xcent S 1.2,2014,110000,Petrol,Manual,298000
+Hyundai NEW SANTRO,2018,25460,Petrol,Manual,314000
+Hyundai Verna FLUIDIC 1.6 EX CRDI AT,2013,110000,Diesel,Auto,347000
+Hyundai Grand i10,2013,54870,Petrol,Manual,277000
+Hyundai Xcent SX 1.2,2015,36030,Petrol,Manual,361000
+Hyundai NEW I20 ASTA (O) 1.0 TURBO GDI DCT,2023,12780,Petrol,Auto,800000
+Hyundai Xcent S (O) 1.2,2015,75160,Petrol,Manual,337000
+Hyundai GRAND I10 NIOS,2020,18610,Petrol,Auto,581000
+Hyundai Creta SX PLUS 1.6 PETROL,2016,79400,Petrol,Manual,550000
+Hyundai Verna FLUIDIC 1.6 VTVT SX AT,2013,27580,Petrol,Auto,315000
+Hyundai Verna FLUIDIC 1.6 VTVT EX,2012,7900,Petrol,Manual,249000
+Hyundai Verna 1.6 VTVT SX O,2019,58880,Petrol,Manual,700000
+Hyundai i20 ASTA 1.2,2010,100000,Petrol,Manual,139000
+Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,2014,52730,Petrol,Auto,333000
+Hyundai Verna FLUIDIC 1.6 VTVT SX OPT,2014,78280,Petrol,Manual,367000
+Hyundai Xcent S 1.1 CRDI,2014,61480,Diesel,Manual,328000
+Hyundai AURA SX 1.2 CNG,2024,18620,Petrol,Manual,868000
+Hyundai Elite i20 MAGNA 1.2,2014,93380,Petrol,Manual,291000
+Hyundai Xcent S (O) 1.2,2015,21120,Petrol,Manual,372000
+Hyundai Elite i20 ASTA 1.4 CRDI,2015,150000,Diesel,Manual,424000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2016,27390,Petrol,Manual,346000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2015,12110,Petrol,Manual,348000
+Hyundai NEW I20 ASTA (O) 1.0 TURBO GDI DCT,2022,14900,Petrol,Auto,750000
+Hyundai Verna 1.6 VTVT SX O,2018,72480,Petrol,Manual,580000
+Hyundai AURA S 1.2 CNG,2021,20610,Petrol,Manual,637000
+Hyundai Xcent S 1.1 CRDI,2015,82710,Diesel,Manual,364000
+Hyundai Verna FLUIDIC 1.6 CRDI SX AT,2014,78850,Diesel,Auto,390000
+Hyundai Xcent SX AT 1.2 (O),2015,310000,Petrol,Auto,320000
+Hyundai Verna FLUIDIC 1.6 CRDI SX,2012,110000,Diesel,Manual,284000
+Hyundai i20 ASTA 1.2,2014,68810,Petrol,Manual,319000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2015,35790,Petrol,Manual,327000
+Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,2014,41050,Petrol,Auto,340000
+Hyundai VENUE S 1.2,2023,17450,Petrol,Manual,750000
+Hyundai Elite i20 SPORTZ 1.2,2017,67430,Petrol,Manual,447000
+Hyundai Creta SX PLUS 1.6 PETROL,2018,75610,Petrol,Manual,675000
+Hyundai VENUE S 1.2,2024,1510,Petrol,Manual,900000
+Hyundai Verna 1.6 VTVT SX (O) AT,2018,49500,Petrol,Auto,725000
+Hyundai Elite i20 ASTA 1.4 CRDI,2015,74450,Diesel,Manual,453000
+Hyundai i20 Active 1.2 S,2015,39670,Petrol,Manual,543000
+Hyundai Xcent E+,2018,56610,Petrol,Manual,399000
+Hyundai Elite i20 SPORTZ 1.2,2015,53350,Petrol,Manual,390000
+Hyundai i20 Active 1.2 S,2016,73700,Petrol,Manual,425000
+Hyundai Xcent SX 1.2,2016,110000,Petrol,Manual,310000
+Hyundai Creta SX PLUS AT 1.6 PETROL,2017,94620,Petrol,Auto,650000
+Hyundai Elite i20 ASTA 1.2 DUAL TONE,2017,58200,Petrol,Manual,465000
+Hyundai NEW I20,2021,18000,Petrol,Auto,663000
+Hyundai Creta E 1.5 PETROL,2024,5400,Petrol,Manual,1177000
+Hyundai AURA S 1.2 CNG,2021,73240,Petrol,Manual,576000
+Hyundai Grand i10,2016,11010,Petrol,Manual,361000
+Hyundai Creta SX PLUS AT 1.6 DIESEL,2016,150000,Diesel,Auto,823000
+Hyundai Creta SX PLUS AT 1.6 PETROL,2016,42920,Petrol,Auto,878999
+Hyundai Grand i10 ASTA (O) AT 1.2 KAPPA VTVT,2016,100000,Petrol,Auto,350000
+Hyundai Elite i20 SPORTZ PLUS 1.2,2019,18980,Petrol,Manual,575000
+Hyundai GRAND I10 NIOS,2022,31760,Petrol,Manual,550000
+Hyundai Grand i10,2016,56000,Petrol,Manual,303000
+Hyundai Elite i20 MAGNA PLUS 1.2,2019,23440,Petrol,Manual,474000
+Hyundai NEW SANTRO,2019,110000,Petrol,Manual,360000
+Hyundai Elite i20 SPORTZ 1.2,2015,100000,Petrol,Manual,399000
+Hyundai Grand i10 ASTA AT 1.2 KAPPA VTVT,2016,57170,Petrol,Auto,342000
+Hyundai GRAND I10 NIOS,2022,21090,Petrol,Manual,550000
+Hyundai Elite i20 MAGNA 1.2,2015,120000,Petrol,Manual,352000
+Hyundai NEW SANTRO,2021,44490,Petrol,Manual,475000
+Hyundai Creta SX PLUS 1.6 DIESEL,2015,100000,Diesel,Manual,725000
+Hyundai EXTER S 1.2 AMT,2023,13330,Petrol,Auto,699000
+Hyundai Grand i10,2017,19810,Petrol,Manual,371000
+Hyundai Creta S 1.4 DIESEL,2016,100000,Diesel,Manual,630000
+Hyundai New Elantra 1.8 SX MT VTVT,2012,140000,Petrol,Manual,267000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2018,6450,Petrol,Manual,412000
+Hyundai i20 SPORTZ 1.4 CRDI,2013,130000,Diesel,Manual,315000
+Hyundai Elite i20 MAGNA 1.2,2015,160000,Petrol,Manual,342000
+Hyundai AURA SX 1.2 CNG,2024,28000,Petrol,Manual,866000
+Hyundai Creta BASE 1.6 PETROL,2016,29000,Petrol,Manual,614000
+Hyundai Grand i10,2017,28680,Petrol,Auto,409000
+Hyundai Grand i10,2016,44780,Petrol,Manual,347000
+Hyundai Verna 1.5 TURBO GDI MT SX,2023,18150,Petrol,Manual,1150000
+Hyundai Grand i10,2015,51550,Petrol,Manual,375000
+Hyundai NEW SANTRO,2021,17390,Petrol,Manual,565000
+Hyundai Creta SX (O) IVT 1.5 PETROL,2023,20380,Petrol,Auto,1695000
+Hyundai New Elantra 2.0 SX(O) AT PETROL,2017,70890,Petrol,Auto,700000
+Hyundai Creta S 1.6 PETROL,2015,88480,Petrol,Manual,575000
+Hyundai Elite i20 MAGNA PLUS 1.2,2019,23620,Petrol,Manual,509999
+Hyundai Elite i20 SPORTZ 1.2,2016,63950,Petrol,Manual,387000
+Hyundai Grand i10,2019,20580,Petrol,Manual,395000
+Hyundai GRAND I10 NIOS,2020,39990,Petrol,Manual,484999
+Hyundai Creta SX PLUS 1.6 PETROL,2017,40560,Petrol,Manual,700000
+Hyundai Creta SX PLUS 1.6 PETROL,2015,32049,Petrol,Manual,600000
+Hyundai AURA S 1.2 CNG,2024,8900,Petrol,Manual,791000
+Hyundai Creta SX PLUS 1.6 PETROL,2015,51390,Petrol,Manual,646000
+Hyundai Creta SX PLUS AT 1.6 PETROL,2016,16940,Petrol,Auto,750000
+Hyundai AURA SX 1.2 CNG,2024,27000,Petrol,Manual,810000
+Hyundai Eon MAGNA +,2015,28490,Petrol,Manual,249000
+Hyundai Creta SX PLUS 1.6 PETROL,2015,68660,Petrol,Manual,600000
+Hyundai NEW SANTRO,2020,110000,Petrol,Manual,350000
+Hyundai Verna FLUIDIC 1.6 CRDI SX OPT AT,2013,170000,Diesel,Auto,365000
+Hyundai Grand i10,2017,66320,Petrol,Auto,476000
+Hyundai Elite i20 SPORTZ 1.2,2017,58970,Petrol,Manual,474000
+Hyundai GRAND I10 NIOS,2023,40730,Petrol,Manual,620000
+Hyundai GRAND I10 NIOS,2020,25870,Petrol,Manual,576000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2017,35100,Petrol,Manual,360000
+Hyundai Xcent BASE 1.1,2017,160000,Diesel,Manual,352000
+Hyundai VENUE SX PLUS 1.0 TURBO DCT,2020,36440,Petrol,Auto,759000
+Hyundai NEW SANTRO,2018,70060,Petrol,Manual,328000
+Hyundai GRAND I10 NIOS,2023,67420,Petrol,Manual,694000
+Hyundai Creta SX PLUS AT 1.6 PETROL,2017,32250,Petrol,Auto,750000
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2018,37330,Petrol,Manual,430999
+Hyundai NEW SANTRO,2018,66370,Petrol,Manual,353000
+Hyundai GRAND I10 NIOS,2021,65640,Petrol,Manual,550000
+Hyundai Xcent S 1.2,2017,100000,Petrol,Manual,336000
+Hyundai GRAND I10 NIOS,2021,73700,Petrol,Manual,530000
+Hyundai Verna SX 1.5 l MPI,2024,6970,Petrol,Manual,1100000
+Hyundai Creta N Line,2024,1450000,Petrol,Manual,1400000
+Hyundai Creta  SX 1.6 Petrol,2016,68190,Petrol,Manual,622000
+Hyundai Creta SX 1.6 DIESEL,2015,110000,Diesel,Manual,709000
+Hyundai GRAND I10 NIOS,2020,43770,Petrol,Manual,450000
+Hyundai VENUE SX PLUS 1.0 TURBO DCT,2019,11280,Petrol,Auto,822000
+Hyundai NEW SANTRO,2019,67920,Petrol,Manual,369000
+Hyundai NEW I20 ASTA 1.2 AT,2021,34230,Petrol,Auto,785000
+Hyundai NEW SANTRO,2019,67130,Petrol,Manual,360000
+Hyundai Verna SX (O)1.5 MPi,2022,39490,Petrol,Manual,858000
+Hyundai Creta SX PLUS 1.6 PETROL,2015,100000,Petrol,Manual,550000
+Hyundai Xcent S 1.2,2017,67440,Petrol,Manual,337000
+Hyundai VENUE SX 1.5 CRDI,2022,67900,Diesel,Manual,968000
+Hyundai Xcent S AT 1.2,2017,59560,Petrol,Auto,381000
+Hyundai Creta SX PLUS AT 1.6 DIESEL,2015,87460,Diesel,Auto,750000
+Hyundai GRAND I10 NIOS,2022,33360,Petrol,Manual,611000
+Hyundai New Elantra 1.8 SX MT VTVT,2013,160000,Petrol,Manual,304000
+Hyundai AURA SX 1.2 CNG,2023,31120,Petrol,Manual,758000
+Hyundai Creta SX AT 1.6 PETROL,2019,110000,Petrol,Auto,950000
+Hyundai Creta S PLUS 1.4 DIESEL,2018,82870,Diesel,Manual,813000
+Hyundai Creta SX (O) IVT 1.5 PETROL,2021,60820,Petrol,Auto,1529000
+Hyundai Creta S 1.6 PETROL,2015,48650,Petrol,Manual,551000
+Hyundai Creta SX PLUS AT 1.6 PETROL,2017,29230,Petrol,Auto,825000
+Hyundai VENUE SX (O) 1.5 CRDI,2019,100000,Diesel,Manual,896000
+Hyundai Creta SX PLUS AT 1.6 DIESEL,2016,140000,Diesel,Auto,700000
+Hyundai VENUE S 1.2,2020,52020,Petrol,Manual,645000
+Hyundai Creta SX PLUS 1.6 PETROL,2015,52310,Petrol,Manual,654000
+Hyundai ALCAZAR 1.5 SIGNATURE (O) AT 6STR,2021,180000,Diesel,Auto,1237000
+Hyundai Creta SX (O) IVT 1.5 PETROL,2021,31340,Petrol,Auto,1300000
+Hyundai Creta SX AT 1.6 PETROL,2018,27870,Petrol,Auto,893000
+Hyundai VENUE SX (O) 1.5 CRDI,2019,66500,Diesel,Manual,713000
+Hyundai New Elantra 1.6 SX AT DIESEL,2013,180000,Diesel,Auto,315000
+Hyundai Elite i20 ASTA 1.2,2018,38030,Petrol,Manual,503000
+Hyundai Xcent S AT 1.2,2018,46900,Petrol,Auto,394000
+Hyundai NEW I20,2025,2950,Petrol,Auto,919000
+Hyundai VENUE SX 1.0 (O) TURBO,2020,45120,Petrol,Manual,700000
+Hyundai Elite i20 ASTA 1.2 CVT,2018,27060,Petrol,Auto,534000
+Hyundai NEW I20 ASTA (O) 1.2 MT,2022,59510,Petrol,Manual,737000
+Hyundai New Elantra 1.8 S VTVT,2012,34200,Petrol,Manual,465000
+Hyundai Santa Fe 4 WD AT,2014,130000,Diesel,Auto,499000
+Hyundai Verna SX 1.5 l MPI,2023,18040,Petrol,Manual,1075000
+Hyundai NEW I20,2024,15180,Petrol,Auto,849000
+Hyundai Creta SX AT 1.6 PETROL,2019,46490,Petrol,Auto,885000
+Hyundai VENUE SX PLUS 1.0 TURBO DCT,2021,46980,Petrol,Auto,846000
+Hyundai New Elantra 1.6 SX MT DIESEL,2013,130000,Diesel,Manual,386000
+Hyundai New Elantra 1.6 CRDI,2012,100000,Diesel,Manual,373000
+Hyundai NEW I20,2021,20000,Petrol,Auto,719000
+Hyundai Creta SX PLUS 1.6 PETROL,2017,34240,Petrol,Manual,774000
+Hyundai VENUE SX PLUS 1.0 TURBO DCT,2020,34390,Petrol,Auto,802000
+Hyundai VENUE SX PLUS 1.0 TURBO DCT,2020,63040,Petrol,Auto,765000
+Hyundai Creta SX AT 1.6 PETROL,2019,83470,Petrol,Auto,940000
+Hyundai Verna SX(O) 1.5 MPI IVT,2023,3120,Petrol,Auto,1400000
+Hyundai Creta SX (O) AT 1.5 DIESEL,2022,41830,Diesel,Auto,1600000
+Hyundai NEW I20 ASTA (O) 1.0 TURBO GDI DCT,2022,51640,Petrol,Auto,873000
+Hyundai Creta S PLUS 1.4 TURBO DCT,2022,34420,Petrol,Auto,1300000
+Hyundai EXTER SX 1.2 MT Hy-CNG Duo,2024,13520,Petrol,Manual,890000
+Hyundai New Elantra 2.0 SX(O) AT PETROL,2017,110000,Petrol,Auto,773000
+Hyundai ALCAZAR 1.5 SIGNATURE (O) AT 6STR,2021,37330,Diesel,Auto,1662000
+Hyundai Verna  SX (O) 1.5 VTVT IVT,2023,9070,Petrol,Auto,1600000
+Hyundai EXTER SX 1.2 CNG MT,2024,8000,Petrol,Manual,801000
+Hyundai Verna 1.6 VTVT SX + AT,2020,14590,Petrol,Auto,817000
+Hyundai Verna 1.5 TURBO GDI MT SX,2023,18300,Petrol,Manual,1200000
+Hyundai NEW I20 N LINE,2022,38900,Petrol,Manual,700000
+Hyundai i20 Active 1.2 SX,2018,17560,Petrol,Manual,635000
+Hyundai Santa Fe 4 WD AT,2014,95590,Diesel,Auto,766000
+Hyundai XCENT PRIME,2019,160000,Petrol,Manual,396000
+Hyundai i10 MAGNA 1.2,2011,39600,Petrol,Manual,100000
+Hyundai i20 MAGNA (O) 1.4 CRDI,2013,81470,Diesel,Manual,224000
+Hyundai Verna FLUIDIC 1.6 CRDI SX,2013,130000,Diesel,Manual,319000
+Hyundai Xcent S (O) 1.2,2014,94600,Petrol,Manual,280000
+Hyundai Verna FLUIDIC 1.6 VTVT S O AT,2015,75030,Petrol,Auto,386000
+Hyundai Elite i20 MAGNA 1.4 CRDI,2015,61360,Diesel,Manual,425000
+Hyundai Elite i20 SPORTZ 1.2,2016,72900,Petrol,Manual,400000
+Hyundai Creta SX AT 1.6 PETROL,2019,44620,Petrol,Auto,817000
+Hyundai Creta SX PLUS 1.6 PETROL,2015,130000,Petrol,Manual,690000
+Hyundai Eon D-LITE+,2014,7280,Petrol,Manual,142000
+Hyundai Creta SX PLUS AT 1.6 DIESEL,2016,200000,Diesel,Auto,758000
+Hyundai Creta SX 1.6 PETROL,2019,43660,Petrol,Manual,786000
+Hyundai Creta SX PLUS 1.6 PETROL,2016,31810,Petrol,Manual,625000
+Hyundai Elite i20 SPORTZ 1.2,2014,40410,Petrol,Manual,350000
+Hyundai VENUE SX PLUS 1.0 TURBO DCT,2019,90040,Petrol,Auto,700000
+Hyundai Verna FLUIDIC 1.6 VTVT SX AT,2014,96900,Petrol,Auto,426999
+Hyundai Creta SX PLUS AT 1.6 PETROL,2017,63450,Petrol,Auto,727000
+Hyundai i20 ASTA 1.2,2014,44900,Petrol,Manual,332000
+Hyundai Creta SX PLUS AT 1.6 PETROL,2017,150000,Petrol,Auto,548000
+Hyundai i10 MAGNA 1.1,2013,17870,Petrol,Manual,177000
+Hyundai Elite i20 SPORTZ 1.2,2016,82570,Petrol,Manual,302000
+Hyundai Grand i10 ASTA (O) 1.2 KAPPA VTVT,2016,57730,Petrol,Manual,317000
+Hyundai Verna FLUIDIC 1.4 VTVT,2012,64700,Petrol,Manual,275000
+Hyundai Elite i20 MAGNA 1.2,2016,9420,Petrol,Manual,394000
+Hyundai NEW I20 N LINE,2022,28610,Petrol,Manual,726000
+Hyundai Creta S 1.4 DIESEL,2019,81380,Diesel,Manual,832000
+Hyundai NEW I20 ASTA 1.0 GDI TURBO DCT,2020,71360,Petrol,Auto,672000
+Hyundai VENUE SX 1.0 TURBO IMT,2020,63770,Petrol,Manual,687000
+Hyundai i20 ASTA 1.2,2012,71710,Petrol,Manual,265000
+Hyundai Grand i10,2018,55950,Petrol,Auto,400000
+Hyundai Xcent S 1.2,2015,36890,Petrol,Manual,300000
+Hyundai Grand i10,2013,21600,Petrol,Manual,254999
+Hyundai Grand i10 ASTA 1.2 KAPPA VTVT,2014,22070,Petrol,Manual,265000
